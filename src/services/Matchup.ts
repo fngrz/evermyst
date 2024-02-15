@@ -1,4 +1,4 @@
-import * as random from 'random';
+import random from 'random';
 
 import { Player, Play, Result } from '../models/Interfaces'
 
